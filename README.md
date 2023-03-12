@@ -1,2 +1,2 @@
 # PLANTDISEASE
-#link https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+#Data set https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
