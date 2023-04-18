@@ -1,5 +1,6 @@
 # PLANTDISEASE
-#Data set https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+# Data set https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+# tomato h5 model https://drive.google.com/file/d/1aEQE0n2_peWBgcmEg60fLIy77GAjctOG/view
 # Output
 # Tomato Disease classification
 ![Web capture_22-3-2023_225621_localhost](https://user-images.githubusercontent.com/114800360/226988792-648ef4c7-54ed-4b28-b680-39f3100be6a5.jpeg)
